@@ -1,0 +1,38 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&family=Kalam:wght@700&family=Open+Sans:wght@600&display=swap');
+</style>
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #ECF8F9;
+}
+.container{
+   margin: 10px;
+    height: 320px;
+    border-radius: 5px 3px 4px 10px;
+    border: 1.5px solid red
+    
+}
+
+p{
+    font-weight: 700;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+.card1{
+    background: red;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.card2{
+    
+    
+}
